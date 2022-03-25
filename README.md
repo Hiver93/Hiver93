@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @Hiver93
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning html,css
 
 <!---
 Hiver93/Hiver93 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
